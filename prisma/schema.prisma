@@ -24,6 +24,6 @@ model Customer {
   updatedAt    DateTime @updatedAt
 
   // Add any additional fields as necessary
-  //Feature 4
+  //Feature 1
 
 }
